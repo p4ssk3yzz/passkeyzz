@@ -71,3 +71,14 @@ Script by Pascal Muju
 ## Disclaimer
 
 Use responsibly and only on networks/systems you own or are authorized to test.
+PASSKEYZZ is a **network reconnaissance and security testing tool** designed exclusively for:
+- ✅ Authorized security professionals conducting **penetration testing** with written permission
+- ✅ System administrators managing **their own networks**
+- ✅ Educational purposes in **controlled lab environments**
+- ✅ Personal network analysis on **devices you own**
+
+**YOU ARE NOT AUTHORIZED TO USE THIS TOOL IF:**
+- ❌ You intend to scan networks, IP addresses, or domains without explicit permission
+- ❌ You plan to use this tool for any malicious, unauthorized, or illegal activities
+- ❌ You are in a jurisdiction where network scanning tools are restricted or prohibited
+- ❌ You do not fully understand and accept these terms
