@@ -14,7 +14,7 @@ A simple open-source Bash networking toolkit.
 
 ## Screenshot
 
-See `screenshot.png`
+See `passkeyzz.png`
 
 ---
 
